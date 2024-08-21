@@ -5,5 +5,5 @@ these animation will work when user scroll to the div then this animation will t
 
 To use:
 enqueue the script'animate.js' in your child theme
-Copy the animation class from file 
-go to yout te
+Copy the animation class from file (classes for animation)
+go to your custom Tempalte Page and add those classes in your tag as per  given in the file.
