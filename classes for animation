@@ -18,10 +18,9 @@ you can add any animation of elementor by adding simply this in you data-setting
 
 
 
-You can  change the speed of animation
+You can also  change the speed of animation
 Example 
-<h2 class="animated-slow animate-on-scroll" data-settings='{"_animation":"fadeIn"}'>LIFE BEGINS HERE</h2>
-just add the class from these 3 and it will work
-1: animated // this is the default normal speed which is alreay added for the animation
-2: animated-slow
-3: animated-fast
+<h2 class="animated-slow animated animate-on-scroll" data-settings='{"_animation":"fadeIn"}'>LIFE BEGINS HERE</h2>
+just add the class from these 2 and it will work
+1: animated-slow 
+2: animated-fast (0.75s)
