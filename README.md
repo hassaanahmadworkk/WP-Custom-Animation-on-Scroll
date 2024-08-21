@@ -4,6 +4,6 @@ these animation will work when user scroll to the div then this animation will t
 
 
 To use:
-Link the scrits'jhfkjs'ksdv
-Copy the aniumation class from file
-go to elmentor adn 
+enqueue the script'animate.js' in your child theme
+Copy the animation class from file 
+go to yout te
