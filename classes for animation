@@ -1,9 +1,9 @@
 
-class="animate-on-scroll" add this class to start working with animation
+class="animated animate-on-scroll" add this class to start working with animation
  
-//Example below
- <h2 class="animate-on-scroll" data-settings='{"_animation":"fadeIn"}'>LIFE BEGINS HERE</h2>
-//Example Above
+//Example below for data Settings
+ <h2 class="animated animate-on-scroll" data-settings='{"_animation":"fadeIn"}'>LIFE BEGINS HERE</h2>
+//Example Above for Data Settings
 
 data-settings='{"_animation":"fadeIn"}'  // You can use any of the name like "fadeIn" and animation will work
  some examples of data settings: 
@@ -14,3 +14,14 @@ data-settings='{"_animation":"fadeIn"}'  // You can use any of the name like "fa
 5: rotatein, rotateInUpLeft, rotateInUpRight , rotateInDownLeft , rotateInDownRight
   etc etc etc . See any name of animation from elementor and use them like that,
 you can add any animation of elementor by adding simply this in you data-settings animation.
+
+
+
+
+You can  change the speed of animation
+Example 
+<h2 class="animated-slow animate-on-scroll" data-settings='{"_animation":"fadeIn"}'>LIFE BEGINS HERE</h2>
+just add the class from these 3 and it will work
+1: animated // this is the default normal speed which is alreay added for the animation
+2: animated-slow
+3: animated-fast
