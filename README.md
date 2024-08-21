@@ -1,6 +1,7 @@
 # WP-Custom-Animations on scroll (Elementor Animations Use in Custom tempalte Pages)
-If your are using a Elementor and want to add Custom Animations in you custom template page . 
-these animation will work when user scroll to the div then this animation will trigger
+If your are using a Elementor and want to add Custom Animations in you custom template page.
+
+These animation will work when user scroll to the specific specific then this animation will trigger
 
 
 To use:
