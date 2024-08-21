@@ -1,3 +1,7 @@
+// Elementor Plugin is Mandatory for this animation Working
+// ADd this code to yout js file in WP. this will work if you are using elementor. 
+// and you want to add aniamtion to your custom templates . you have to just add this code in js file
+// just add the class in your code and the elementor animations will work on your code.
 document.addEventListener('DOMContentLoaded', () => {
     // Function to handle intersection
     const animateOnScroll = (entries, observer) => {
